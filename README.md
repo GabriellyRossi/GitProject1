@@ -152,5 +152,5 @@ Este exercício teve como objetivo praticar e dmonstrar o usod de comandos bási
     nothing to commit, working tree clean
     
     
-### Anexo aqui o arquivo ExerciciopraticodeGit.docx onde constam os prints e consideraçoes extras sobre o projeto. 
+### Anexo aqui o arquivo Exercícios práticos de Git - GitProject1.docx  onde constam os prints e consideraçoes extras sobre o projeto. 
 
